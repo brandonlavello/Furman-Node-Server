@@ -4,6 +4,8 @@ This project creates a Node.js webserver hosted on a Linux Machine.
 
 The server accesses devices on the same Local Area Network to toggle on/off A/V equipment that is around the building.
 
+This project complements the [Furman-Flask-Serial-Server](https://github.com/brandonlavello/Furman-Flask-Serial-Server) project to control AV equiptment throughout the building.
+
 This webpage can be accessed at: http://10.0.10.225:8000/
 
 ## Description
